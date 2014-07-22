@@ -1,7 +1,7 @@
 {
   "name": "omit-keys-stream",
   "description": "Omit object keys from an `objectMode` stream using http://lodash.com/docs#omit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "lodash.omit": "^2.4.1"
   },
